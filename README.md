@@ -1,4 +1,8 @@
+<p align="center">
+
 ![](https://avatars1.githubusercontent.com/u/22766122?s=400&u=435596cf5a488e23a2cdbf3e2f62d6fa4b4182a2&v=4)
+
+</p>
 
 <div align="center">
    <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
